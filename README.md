@@ -26,3 +26,16 @@
   - Optimize customer discounts.
   - Drive negotiations.
   - Pinpoint growth opportunities in new markets.
+
+
+## Technical Skills :
+- [x] ETL methodology proficiency (Extract, Transform, Load).
+- [x] Data model relationship establishment with Power Pivot.
+- [x] DAX for calculated columns and advanced calculations.
+- [x] Integration of supplementary data for enhanced insights.
+
+## Soft Skills :
+- [x] Sales & Finance Reports expertise.
+- [x] User-centric report design with empathy.
+- [x] Report generation optimization.
+- [x] Systematic report building approach.
